@@ -1,0 +1,3 @@
+# Netlify publishes the static site in public/ as-is; there is no build step.
+[build]
+  publish = "public"
